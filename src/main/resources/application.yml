@@ -1,0 +1,4 @@
+app:
+  properties:
+    bucket-name: ${BUCKET_NAME}
+
